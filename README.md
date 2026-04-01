@@ -2,7 +2,7 @@
 
 **Quality Control Analyst | Graphic Artist | Prepress QA**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Quality+Control+Excellence;Print+Production+Mastery;Attention+To+Detail)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Quality+Control+Excellence;Print+Production+Mastery;Prepress+Expertise)](https://git.io/typing-svg)
 
 ---
 
@@ -45,30 +45,30 @@ Quality Control/Quality Assurance and Production Artist with 15+ years of experi
 
 ## 🎨 Core Competencies
 
-### Quality Assurance & Analysis
-- ✓ Quality Control Testing & Inspection
-- ✓ Proof Reading & Content Validation
-- ✓ Compliance & Standards Documentation
-- ✓ Process Improvement & Optimization
-- ✓ Data Analysis & Reporting
-- ✓ Bug Tracking & Resolution
-
-### Design & Creative
-- ✓ Graphic Design & Visual Assets
-- ✓ Adobe Creative Suite Expertise
+### Quality Assurance
+- ✓ Prepress QA/Print QA/Graphic Quality Control
 - ✓ Brand Guidelines & Consistency
-- ✓ Typography & Layout Design
-- ✓ Print & Digital Design
-- ✓ Color Theory & Visual Hierarchy
+- ✓ Proof Reading & Content Validation
+- ✓ Layout, Trim & Bleed Checking
+- ✓ Printer Specification Complience
+- ✓ Color Seperation Checking
+- ✓ File Preflight & Print Ready Artwork
+
+### Design & Production
+- ✓ Graphic Design Adaptation
+- ✓ Brand Guidelines & Consistency
+- ✓ Typography & Layout Design Consistency
+- ✓ Print & Digital Artwork
+- ✓ Color, Printer Specification, & Dieline
 - ✓ Packaging Artwork
+- ✓ Preflight
 
 ### Additional Skills
 - ✓ Attention to Detail
 - ✓ File Preparation & Asset Management
 - ✓ Cross-functional Communication
 - ✓ Project Coordination
-- ✓ Semantic HTML/CSS
-- ✓ Responsive Design
+- ✓ Print Ready Artwork
 
 ---
 
@@ -84,23 +84,12 @@ Major: Chemical Engineering Technology
 
 ---
 
-## 📊 GitHub Statistics
+
+## 🌟 Featured Companies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiko-kawahira&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiko-kawahira&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🌟 Featured Clients & Companies
-
-<div align="center">
-
-🏢 **WPP Production** | 🏢 **505 & CC Asia Pacific** | 🏢 **Unitas Marketing Group** | 🏢 **Wazal Industries Inc.**
+🏢 **WPP Production** | 🏢 **SGS & Co Asia Pacific** | 🏢 **Scanwell Graphics Corporation** | 🏢 **Vasaar Industries Inc.**
 
 </div>
 
@@ -110,7 +99,7 @@ Major: Chemical Engineering Technology
 
 | 🔍 | **Quality Excellence** | Rigorous testing, validation, and compliance assurance |
 |---|---|---|
-| 🎨 | **Print Production Expertise** | Professional Print Production Art |
+| 🎨 | **Print Production Expertise** | Typography & Layout Accuracy |
 | ⚡ | **Attention to Detail** | Catching errors others might miss |
 
 ---
@@ -141,7 +130,6 @@ Major: Chemical Engineering Technology
 - 🎨 I believe that quality and creativity go hand-in-hand
 - 🔍 There's nothing more satisfying than catching an error before it reaches the client
 - 🌍 Passionate about delivering excellence in every detail
-- ⚡ When not working on QA or design, I explore new creative tools and methodologies
 - 🎯 Details matter – consistency equals excellence
 
 ---
@@ -150,8 +138,6 @@ Major: Chemical Engineering Technology
 
 ### Thanks for visiting my profile! 🎯
 
-**If you're looking for someone who combines meticulous quality control with creative design expertise, let's connect!**
-
-*Last updated: April 1, 2026*
+**If you're looking for someone who combines meticulous quality control with Print and Prepress expertise, let's connect!**
 
 </div>
