@@ -18,11 +18,31 @@ Quality Control/Quality Assurance and Production Artist with 15+ years of experi
 ### 🎨 Graphics & QA
 <div align="center">
 
-![Illustrator](https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-![Photoshop](https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![InDesign](https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Adobe Acrobat](https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)
-![Canva](https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=canva&logoColor=00C4CC)
+<div style="display:grid;grid-template-columns:repeat(4,80px);gap:16px;">
+
+  <div style="background:#2B0C00;border-radius:18px;display:flex;align-items:center;justify-content:center;height:80px;">
+    <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40">
+  </div>
+
+  <div style="background:#001E36;border-radius:18px;display:flex;align-items:center;justify-content:center;height:80px;">
+    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40">
+  </div>
+
+  <div style="background:#2C001B;border-radius:18px;display:flex;align-items:center;justify-content:center;height:80px;">
+    <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" width="40">
+  </div>
+
+  <div></div>
+
+  <div style="background:#2A0000;border-radius:18px;display:flex;align-items:center;justify-content:center;height:80px;">
+    <img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" width="40">
+  </div>
+
+  <div style="background:#003F40;border-radius:18px;display:flex;align-items:center;justify-content:center;height:80px;">
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40">
+  </div>
+
+</div>
 
 
 
