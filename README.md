@@ -18,11 +18,11 @@ Quality Control/Quality Assurance and Production Artist with 15+ years of experi
 ### 🎨 Graphics & QA
 <div align="center">
 
-![Photoshop](https://img.shields.io/badge/-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Acrobat](https://img.shields.io/badge/-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-%20-2B0C00?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Photoshop](https://img.shields.io/badge/-%20-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![InDesign](https://img.shields.io/badge/-%20-2C001B?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
+![Adobe Acrobat](https://img.shields.io/badge/-%20-2A0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)
+![Canva](https://img.shields.io/badge/-%20-003F40?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 
 
