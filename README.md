@@ -15,17 +15,15 @@ Quality Control/Quality Assurance and Production Artist with 15+ years of experi
 
 ## 🛠️ Technical & Design Skills
 
-### 🎨 Design & Creative Suite
+### 🎨 Graphics & QA
 <div align="center">
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Acrobat](https://img.shields.io/badge/-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00B0F0?style=for-the-badge&logo=CorelDRAW&logoColor=white)
+
 
 
 
