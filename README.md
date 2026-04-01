@@ -111,9 +111,7 @@ Major: Chemical Engineering Technology
 | 🔍 | **Quality Excellence** | Rigorous testing, validation, and compliance assurance |
 |---|---|---|
 | 🎨 | **Print Production Expertise** | Professional Print Production Art |
-|---|---|---|
 | ⚡ | **Attention to Detail** | Catching errors others might miss |
-|---|---|---|
 
 ---
 
