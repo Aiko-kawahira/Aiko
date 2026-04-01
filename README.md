@@ -18,11 +18,15 @@ Quality Control/Quality Assurance and Production Artist with 15+ years of experi
 ### 🎨 Graphics & QA
 <div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%20-2B0C00?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/-%20-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-  <img src="https://img.shields.io/badge/-%20-2C001B?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" />
-</p>
+<p align="center"><!-- Tools Badges -->
+
+<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-Acrobat-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-Esko-4B0082?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-Global%20Vision-008000?style=for-the-badge&logoColor=FFFFFF" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/-%20-2A0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24" />
