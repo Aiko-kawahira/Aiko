@@ -108,10 +108,10 @@ Major: Chemical Engineering Technology
 
 | 🔍 | **Quality Excellence** | Rigorous testing, validation, and compliance assurance |
 |---|---|---|
-| 🎨 | **Design Expertise** | Professional graphic design and visual asset creation |
-| 💡 | **Problem-Solving** | Identifying inefficiencies and implementing solutions |
+| 🎨 | **Print Production Expertise** | Professional Print Production Art |
+|---|---|---|
 | ⚡ | **Attention to Detail** | Catching errors others might miss |
-| 📈 | **Process Improvement** | Streamlining workflows for better results |
+|---|---|---|
 
 ---
 
