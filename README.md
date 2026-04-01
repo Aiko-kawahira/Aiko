@@ -28,10 +28,6 @@ Quality Control/Quality Assurance and Production Artist with 15+ years of experi
 <img src="https://img.shields.io/badge/-Esko-4B0082?style=for-the-badge&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/-Global%20Vision-008000?style=for-the-badge&logoColor=FFFFFF" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%20-2A0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24" />
-  <img src="https://img.shields.io/badge/-%20-003F40?style=for-the-badge&logo=canva&logoColor=00C4CC" />
-</p>
 
 
 
