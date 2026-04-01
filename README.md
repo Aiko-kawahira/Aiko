@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-Graphic Artist and Production Artist with 15+ years of experience in packaging artwork, quality control inspection, and print production. Highly skilled in preparing production-ready artwork while ensuring accuracy, compliance with client specifications, and technical excellence.
+Quality Control/Quality Assurance and Production Artist with 15+ years of experience in packaging artwork, quality control inspection, and print production. Highly skilled in preparing production-ready artwork while ensuring accuracy, compliance with client specifications, and technical excellence.
 
 ---
 
