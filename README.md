@@ -43,9 +43,9 @@ Quality Control/Quality Assurance and Production Artist with 15+ years of experi
 
 ---
 
-## 🎨 Core Competencies
+## 🎨 Core Skills
 
-### Quality Assurance
+### Quality Assurance 💯✔️
 - ✓ Prepress QA/Print QA/Graphic Quality Control
 - ✓ Brand Guidelines & Consistency
 - ✓ Proof Reading & Content Validation
@@ -54,7 +54,7 @@ Quality Control/Quality Assurance and Production Artist with 15+ years of experi
 - ✓ Color Seperation Checking
 - ✓ File Preflight & Print Ready Artwork
 
-### Design & Production
+### Design & Production 👩‍💻📚
 - ✓ Graphic Design Adaptation
 - ✓ Brand Guidelines & Consistency
 - ✓ Typography & Layout Design Consistency
@@ -63,25 +63,12 @@ Quality Control/Quality Assurance and Production Artist with 15+ years of experi
 - ✓ Packaging Artwork
 - ✓ Preflight
 
-### Additional Skills
+### Additional Skills 🔍
 - ✓ Attention to Detail
 - ✓ File Preparation & Asset Management
 - ✓ Cross-functional Communication
 - ✓ Project Coordination
 - ✓ Print Ready Artwork
-
----
-
-## 📚 Education
-
-<div align="center">
-
-**Technological University of the Philippines – Taguig**
-
-Major: Chemical Engineering Technology
-
-</div>
-
 
 ---
 
@@ -103,15 +90,11 @@ Major: Chemical Engineering Technology
 
 ---
 
-## 🔗 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiko-kawahira-098463129/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiko-kawahira)
 
+## 🔗 [VISIT MY PORFOLIO](PORTFOLIO.pdf)
 
-</div>
 
 ---
 
@@ -124,16 +107,21 @@ Major: Chemical Engineering Technology
 
 ---
 
+
+
+## 🔗 Connect With Me
+
+
 <div align="center">
 
-
-[VISIT MY PORFOLIO](PORTFOLIO.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiko-kawahira-098463129/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiko-kawahira)
 
 
 ---
 
-<div align="center">
 
+<div align="center">
 
 
 ### Thanks for visiting my profile! 🎯
