@@ -82,16 +82,6 @@ Major: Chemical Engineering Technology
 
 </div>
 
----
-
-
-## 🌟 Featured Companies
-
-<div align="center">
-
-🏢 **WPP Production** | 🏢 **SGS & Co Asia Pacific** | 🏢 **Scanwell Graphics Corporation** | 🏢 **Vasaar Industries Inc.**
-
-</div>
 
 ---
 
