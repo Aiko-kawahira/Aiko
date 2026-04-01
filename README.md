@@ -126,6 +126,16 @@ Major: Chemical Engineering Technology
 
 <div align="center">
 
+
+[VISIT MY PORFOLIO](PORTFOLIO.pdf)
+
+
+---
+
+<div align="center">
+
+
+
 ### Thanks for visiting my profile! 🎯
 
 **If you're looking for someone who combines meticulous quality control with Print and Prepress expertise, let's connect!**
