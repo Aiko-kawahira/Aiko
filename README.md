@@ -2,7 +2,7 @@
 
 **Quality Control Analyst | Graphic Artist | Prepress QA**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Quality+Control+Excellence;Graphic+Design+Mastery;Creative+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Quality+Control+Excellence;Print+Production+Mastery;Attention+To+Detail)](https://git.io/typing-svg)
 
 ---
 
